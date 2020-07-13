@@ -1,1 +1,1 @@
-# ocp-s2i
+# OCP S2I
